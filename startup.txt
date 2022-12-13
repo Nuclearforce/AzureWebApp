@@ -1,1 +1,1 @@
-python -m panel serve index.py datashaders.py interactivity.py streaming.py --index index.py --address 0.0.0.0 --port 8000 --allow-websocket-origin=app-name.azurewebsites.net --unused-session-lifetime 5000 --check-unused-sessions 5000
+python -m panel serve index.py datashaders.py interactivity.py streaming.py --index index.py --address 0.0.0.0 --port 8000 --allow-websocket-origin=paneldashboarddeploytestthree.azurewebsites.net --unused-session-lifetime 5000 --check-unused-sessions 5000
