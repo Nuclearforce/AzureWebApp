@@ -11,3 +11,5 @@ Change settings: Setting/Configuration/
     Web sockets = on (It is on by default for linux)
     Always on = on
     ARR affinity = on
+
+Used as an external git repo to update webapp
