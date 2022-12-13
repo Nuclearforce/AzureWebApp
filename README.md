@@ -1,5 +1,11 @@
 # AzureWebApp
-Run locally using: panel serve index.py datashaders.py interactivity.py streaming.py --index index.py
+Run locally using (bash): 
+python -m venv venv
+source venv/Scripts/activate
+pip install -r requirements.txt
+
+Make sure it works by running:
+panel serve index.py datashaders.py interactivity.py streaming.py --index index.py
 
 Change settings: Setting/Configuration/ 
     Web sockets = on
